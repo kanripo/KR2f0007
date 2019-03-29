@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 世宗憲皇帝上諭八旗
-#+DATE: 2019-03-29 20:50:08.682596
+#+DATE: 2019-03-29 20:50:09.052828
 #+PROPERTY: ID KR2f0007
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 35
 <pb:KR2f0007_WYG_035-1a>¶
 　　欽定四庫全書¶
@@ -65,7 +65,7 @@
 　　諭㫖現今自荆州来京襲職之佐領阿拉領催安第若令¶
 <pb:KR2f0007_WYG_035-3a>¶
 其等候至年底具奏家譜之時一同具奏既有誤伊¶
-任内事務又致多費盤&KR0374;(臣)等仰請將阿拉等襲職¶
+任内事務又致多費盤纏(臣)等仰請將阿拉等襲職¶
 之事即入於補授外省官員事内一同具奏引¶
 ¶
 　　見嗣後凡外省襲職事件隨到隨即具奏庶外省人員無¶

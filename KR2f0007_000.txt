@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 世宗憲皇帝上諭八旗
-#+DATE: 2019-03-29 20:50:08.382069
+#+DATE: 2019-03-29 20:50:08.750632
 #+PROPERTY: ID KR2f0007
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 0
 <pb:KR2f0007_WYG_000-1a>¶
 　　欽定四庫全書　　　　　史部六¶
@@ -43,7 +43,7 @@
 ¶
 　　諭行旗務奏議凡十三卷並兼用¶
 ¶
-　　國書漢書刋𠜇頒行伏考三代以上兵與民同¶
+　　國書漢書刋刻頒行伏考三代以上兵與民同¶
 體文與武亦不分途故凡其著名版籍者十¶
 六以下上所長六十以上上所養無事皆可¶
 合以訓練有事即人人可以荷戈而當時之¶

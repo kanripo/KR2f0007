@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 世宗憲皇帝上諭八旗
-#+DATE: 2019-03-29 20:50:08.701410
+#+DATE: 2019-03-29 20:50:09.062659
 #+PROPERTY: ID KR2f0007
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 37
 <pb:KR2f0007_WYG_037-1a>¶
 　　欽定四庫全書¶
@@ -1225,7 +1225,7 @@
 ¶
 　　署理都統事務多羅貝勒飛素奏稱¶
 ¶
-　　大内阿哥格格等合𢀿吉期例由禮部查選八旗原配¶
+　　大内阿哥格格等合卺吉期例由禮部查選八旗原配¶
 夫妻内屬相相符之婦人但伊等佩服之頂帽朝服簪¶
 珥素珠等物各該旗並無預備者故每次𣲖出之人¶
 <pb:KR2f0007_WYG_037-54b>¶

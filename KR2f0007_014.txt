@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 世宗憲皇帝上諭八旗
-#+DATE: 2019-03-29 20:50:08.542711
+#+DATE: 2019-03-29 20:50:08.913433
 #+PROPERTY: ID KR2f0007
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 14
 <pb:KR2f0007_WYG_014-1a>¶
 　　欽定四庫全書　　　　　　史部六¶
@@ -439,7 +439,7 @@
 許用執事鼓樂人不得過八名燈不得過四對一應¶
 過分糜費槩行嚴禁¶
 ¶
-　　上諭邉外地方遼濶開墾田&KR0341;甚多將京城無産業兵丁¶
+　　上諭邉外地方遼濶開墾田𤱔甚多將京城無産業兵丁¶
 <pb:KR2f0007_WYG_014-20a>¶
 移駐於彼殊為有益著提督董象緯定議再著總理事¶
 務王大臣等㑹同該部詳議具奏特諭¶

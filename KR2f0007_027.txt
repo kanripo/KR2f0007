@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 世宗憲皇帝上諭八旗
-#+DATE: 2019-03-29 20:50:08.637390
+#+DATE: 2019-03-29 20:50:09.016122
 #+PROPERTY: ID KR2f0007
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 27
 <pb:KR2f0007_WYG_027-1a>¶
 　　欽定四庫全書¶
@@ -412,7 +412,7 @@
 　　禮部議覆據鴻臚寺卿希佛奏稱京城内外官兵百¶
 <pb:KR2f0007_WYG_027-19b>¶
 姓人等徃徃有不肖之徒遇有䘮事出殯之際擺列¶
-諸戯諸事僭越復於出殯之前一日設辦筵席聚集¶
+諸戲諸事僭越復於出殯之前一日設辦筵席聚集¶
 親友竟日徹夜演戲為歡不但糜費亦且大有虧於¶
 孝道仰請¶
 ¶
